@@ -25,7 +25,7 @@ lullaby_phrases = [
     "Nana neném, que o céu vai brilhar,",
     "O Windows vai ativar sem precisar chorar.",
     "Com amor no coração e a luz da manhã,",
-    "A * te dá a chave: {key}, manhã.",
+    "A *** te dá a chave: {key}, manhã.",
     "Fecha os olhos devagar, respira bem baixinho,",
     "A Microsoft cuidando dos seus sonhinhos..."
 ]
